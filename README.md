@@ -2,9 +2,9 @@
 @Tested: v8
 
 
-# Usages 
+# ⭐ Usages 
 
-Download ParalleProcessor.php
+> 👉 **Download** ⬇️ ParalleProcessor.php
 
 ```
 $tasks = [
